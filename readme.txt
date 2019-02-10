@@ -1,1 +1,1 @@
-to jest 1 zmiana.
+zmiany niezbedne do prawid³owehgo dzia³ania.
